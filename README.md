@@ -2,7 +2,7 @@
 
 I am a **Senior Software Engineer** based in Helsinki, Finland
 
-I have worked on a few very successful mobile games buildings core architecture, game features and tools for the team. I am passionate about good user experience, contributing in applications performance, automaton and workflows improvements for the team
+I have worked on a few very successful mobile games (Empires & Puzzles, Merge Mansion, Modern Warplanes) buildings core architecture, features, ui and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
 
 - 🎯 **Main tools:** C#, C++, Unity
 - 🌱 **Learning:** Go, Distributed Systems
