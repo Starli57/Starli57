@@ -5,7 +5,7 @@ I am a **Senior Software Engineer** based in Helsinki, Finland
 I have worked on a few very successful mobile games buildings core architecture, game features and tools for the team. I am passionate about good user experience, contributing in applications performance, automaton and workflows improvements for the team
 
 - 🎯 **Main tools:** C#, C++, Unity
-- 🌱 **Want to learn:** Go and backend
+- 🌱 **Learning:** Go, Distributed Systems
 - 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design and scaleability
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
 
