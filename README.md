@@ -8,6 +8,7 @@ I have worked on a few very successful mobile games buildings core architecture,
 - 🌱 **Learning:** Go, Distributed Systems
 - 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design and scaleability
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
+- 🏂 In my free time I enjoy sport activities: snowboarding, climbing, cycling, hiking
 
 
 <!--
