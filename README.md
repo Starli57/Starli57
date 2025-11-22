@@ -6,7 +6,7 @@ I have worked on a few very successful mobile games buildings core architecture,
 
 - 🎯 **Main tools:** C#, C++, Unity
 - 🌱 **Want to learn:** Go and backend
-- 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with heavy focus on data oriented design and scaleability
+- 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design and scaleability
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
 
 
