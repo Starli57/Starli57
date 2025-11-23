@@ -2,7 +2,7 @@
 
 I am a **Senior Software Engineer** based in Helsinki, Finland
 
-I have worked on a few very successful mobile games (Empires & Puzzles, Merge Mansion, Modern Warplanes) buildings core architecture, features, ui and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
+I have worked on a few very successful mobile games ([Empires & Puzzles](https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=en), [Merge Mansion](https://play.google.com/store/apps/details?id=com.everywear.game5&hl=en), [Modern Warplanes](https://play.google.com/store/apps/details?id=com.EvilChaotic.ModernWarplanes&hl=en)) buildings core architecture, features, ui and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
 
 - 🎯 **Proficient:** C#, C++, Unity
 - 🌱 **Learning:** Native mobile development, Realtime rendering (Vulkan Api)
