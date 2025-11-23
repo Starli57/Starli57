@@ -5,8 +5,8 @@ I am a **Senior Software Engineer** based in Helsinki, Finland
 I have worked on a few very successful mobile games (Empires & Puzzles, Merge Mansion, Modern Warplanes) buildings core architecture, features, ui and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
 
 - 🎯 **Proficient:** C#, C++, Unity
-- 🌱 **Learning:** Go, Distributed Systems
-- 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design and scaleability
+- 🌱 **Learning:** Native mobile development
+- 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design, flexibility and scaleability for windows (and mobile soon)
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
 - 🏂 In my free time I enjoy sport activities: snowboarding, climbing, cycling, hiking
 
