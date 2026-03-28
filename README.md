@@ -2,11 +2,11 @@
 
 I am a **Senior Software Engineer** based in Helsinki, Finland
 
-I have worked on a few very successful mobile games ([Empires & Puzzles](https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=en), [Merge Mansion](https://play.google.com/store/apps/details?id=com.everywear.game5&hl=en), [Modern Warplanes](https://play.google.com/store/apps/details?id=com.EvilChaotic.ModernWarplanes&hl=en)) buildings core architecture, features, ui and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
+I have worked on a few very successful mobile games ([Empires & Puzzles](https://play.google.com/store/apps/details?id=com.smallgiantgames.empires&hl=en), [Merge Mansion](https://play.google.com/store/apps/details?id=com.everywear.game5&hl=en), [Modern Warplanes](https://play.google.com/store/apps/details?id=com.EvilChaotic.ModernWarplanes&hl=en)) buildings core architecture, features and tools for the team. I am passionate about good user experience, actively contributing in applications performance, automation, scaleability and workflows improvements for the team
 
 - 🎯 **Proficient:** C#, C++, Unity
-- 🌱 **Learning:** Native mobile development (Kotlin, KTM, Jetpack Compose etc), Realtime rendering (Vulkan Api)
-- 🔭 **Currently working on:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design, flexibility and scaleability for windows (and mobile soon)
+- 🌱 **Learning:** Server and Cloud infrastructure
+- 🔭 **Current pet project:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design, flexibility and scaleability for windows (and mobile soon)
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
 - 🏂 In my free time I enjoy sport activities: snowboarding, climbing, cycling, hiking
 
