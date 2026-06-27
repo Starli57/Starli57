@@ -6,7 +6,7 @@ I have worked full-stack (client, server, tools) on a few very successful mobile
 
 - 🎯 **Proficient:** Client-Server development with C#, C++, Scala, Dart, Unity, Flutter
 - 🌱 **Learning:** Distributed systems
-- 🔭 **Current pet project:** [flutter + asp.net] I build a finance application for my family to help us to manage money without headache
+- 🔭 **Current pet project:** [flutter + asp.net] I build a finance application for my family to help us to manage money with no headache
 - ✨ **I built:** [Realtime Rendering Engine](https://github.com/Starli57/Engine3d) using **C++ and Vulkan** with focus on data oriented design, flexibility and scaleability for windows (and mobile soon)
 - ✨ **I built:** [Configurable particles system editor and renderer](https://github.com/Starli57/ParticleSystemEditor) using **C++ and OpenGl**
 - 🏂 In my free time I enjoy sport activities: snowboarding, climbing, cycling, hiking
